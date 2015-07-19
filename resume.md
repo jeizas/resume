@@ -30,15 +30,15 @@
 > **A** 采用SpringMvc+Spring+Mybatis架构，尝试使用bootstrap增强用户体验 。      
 > **R** 作为第一个项目且后期还要使用，本项目还在不断添加新的功能中。    
 
-* 2015.05 [升降机远程监控报警系统]（考虑到到商业机密没能上传）
+* 2015.05 升降机远程监控报警系统（考虑到到商业机密没能上传）
 > **S** 第一次与三个老师团队合作开发的项目。      
 > **T** 我主要负责设备管理，以及报表统计，导出表格，以及系统管理员的功能。    
 > **A** 采用SpringMvc+Spring+Hibernate架构，使用sematic_ui/html/jquery增强界面与用户更友好。     
 > **R** 项目使用ajax异步传输数据。     
 
-* 2015.07 [中软国际参加实训]
-> **S** 担任班级“技术总监”，为班级同学解决SSH开发项目的问题，并整理成网页与班级同学分享。(https://github.com/jeizas/ERR)     
-> **T** 期间学了Struts2+Spring+Hibernate和easyui的使用，并用其框架做了登录和多表的增删该操作。(https://github.com/jeizas/TRAINING)      
+* 2015.07 中软国际参加实训
+> **S** 担任班级“技术总监”，为班级同学解决SSH开发项目的问题，[**并整理成网页与班级同学分享**](https://github.com/jeizas/ERR)。     
+> **T** 期间学了Struts2+Spring+Hibernate和easyui的使用，[**并用其框架做了登录和多表的增删该操作**](https://github.com/jeizas/TRAINING)。      
 > **A** 经历了一个软件从需求分析、数据库的设计、界面设计、架构设计、编码、测试到部署的过程。     
 > **R** 虽然每天遇到的问题形形色色，但确实收获了很多，培养了一种不怕问题的能力。      
 
