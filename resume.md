@@ -13,7 +13,7 @@
 ---
 
 #技能清单
-* Web开发：熟悉Struts2/SpringMvc + Spring + Hibernate/Mybits方式开发项目，熟悉mysql基本操作,能独立实现web前端后端。
+* Web开发：熟悉Struts2/SpringMvc + Spring + Hibernate/Mybaits方式开发项目，熟悉mysql基本操作,能独立实现web前端后端。
 * 前端：HTML/CSS/jquery/bootstrap（在搭建学生上交作业系统时大量用到）。
 * 前端框架：sematic_ui/html/jquery/ajax（在升降机远程监控系统有用到）。
 * javaEE:三个项目，
